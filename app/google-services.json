@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043753040438",
+    "firebase_url": "https://dduck-ddack-4e339.firebaseio.com",
+    "project_id": "dduck-ddack-4e339",
+    "storage_bucket": "dduck-ddack-4e339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043753040438:android:30a3145d5eb116888e7697",
+        "android_client_info": {
+          "package_name": "com.example.lonely"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043753040438-9715h7oam0mg49as7299u0e10s19djep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lonely",
+            "certificate_hash": "1f2769b139a28ca7b41426b615a4cda6a494725d"
+          }
+        },
+        {
+          "client_id": "1043753040438-33b1p29dkhvvvdhvieov99h3e547691a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW1X26NR6ln2jr4mZuV_bpOAHWg39U80Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043753040438-33b1p29dkhvvvdhvieov99h3e547691a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
